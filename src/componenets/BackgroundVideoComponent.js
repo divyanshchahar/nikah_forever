@@ -1,5 +1,4 @@
 import backgroundVideo from "../assets/videos/background_video.mp4";
-// import styles from "./BackgroundVideoComponent.module.css";
 
 function BackgroundVideoComponent() {
   return (
